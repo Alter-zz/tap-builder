@@ -1,5 +1,6 @@
 # tap-builder
 
+```
 tap-builder/
   ├── apps/
   │   ├── web/        # 前端项目，之前的 frontend-core
@@ -16,3 +17,4 @@ tap-builder/
   │   └── ui-components/
   ├── package.json
   └── turbo.json
+```
