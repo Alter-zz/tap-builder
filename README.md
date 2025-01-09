@@ -18,3 +18,18 @@ tap-builder/
   ├── package.json
   └── turbo.json
 ```
+atoms
+	按照模块分
+		home/index.ts
+components
+
+hooks
+	按模块分
+		home/index.ts
+pages
+
+services
+	API 按模块分
+		home/index.ts
+utils
+	constants.ts 常量
